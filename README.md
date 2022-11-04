@@ -1,3 +1,11 @@
 # CS2211-Software-Tools-and-Systems-Programming
 
 This course provides an introduction to software tools and systems level programming. Topics include: understanding how programs run (compilation, linking, and loading), an introduction to a complex operating system (UNIX), scripting languages, and the C programming language. As time permits, other topics will be chosen from: system calls, memory management, libraries, multi-component program organization and builds, version control, debuggers and profilers.
+
+Assignment 2 - Unit Conversion Program
+
+Assignment 3 - Integer Arrays
+
+Assignment 4 - Olympics Database
+
+Assignment 5 - Olympics Database (more complicated)
